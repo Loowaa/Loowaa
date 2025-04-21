@@ -20,7 +20,7 @@ Here are some areas I'm currently exploring:
 
 - **AI-Driven Workflow Automation**: Developing tools to streamline media production processes.
 - **Digital Content Management Systems**: Creating platforms for efficient content distribution.
-- **Cloud Infrastructure Optimization**: Enhancing scalability and performance of media services. [oai_citation_attribution:0‡marclucienleroy.com](https://marclucienleroy.com/?utm_source=chatgpt.com)
+- **Cloud Infrastructure Optimization**: Enhancing scalability and performance of media services.
 
 *(Note: I'll be adding repositories related to these projects soon.)*
 
